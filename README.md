@@ -20,6 +20,4 @@
 
 ## Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [.NET Tutorial - Hello World in 5 minutes](https://dotnet.microsoft.com/en-us/learn/dotnet/hello-world-tutorial/intro)
