@@ -1,0 +1,15 @@
+/Users/daviedev/CSEW2023/CSE310-01/week01/PersonalPortfolio/MyApp/bin/Debug/net6.0/MyApp
+/Users/daviedev/CSEW2023/CSE310-01/week01/PersonalPortfolio/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/Users/daviedev/CSEW2023/CSE310-01/week01/PersonalPortfolio/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/Users/daviedev/CSEW2023/CSE310-01/week01/PersonalPortfolio/MyApp/bin/Debug/net6.0/MyApp.dll
+/Users/daviedev/CSEW2023/CSE310-01/week01/PersonalPortfolio/MyApp/bin/Debug/net6.0/MyApp.pdb
+/Users/daviedev/CSEW2023/CSE310-01/week01/PersonalPortfolio/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/Users/daviedev/CSEW2023/CSE310-01/week01/PersonalPortfolio/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daviedev/CSEW2023/CSE310-01/week01/PersonalPortfolio/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/Users/daviedev/CSEW2023/CSE310-01/week01/PersonalPortfolio/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/Users/daviedev/CSEW2023/CSE310-01/week01/PersonalPortfolio/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/daviedev/CSEW2023/CSE310-01/week01/PersonalPortfolio/MyApp/obj/Debug/net6.0/MyApp.dll
+/Users/daviedev/CSEW2023/CSE310-01/week01/PersonalPortfolio/MyApp/obj/Debug/net6.0/refint/MyApp.dll
+/Users/daviedev/CSEW2023/CSE310-01/week01/PersonalPortfolio/MyApp/obj/Debug/net6.0/MyApp.pdb
+/Users/daviedev/CSEW2023/CSE310-01/week01/PersonalPortfolio/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
+/Users/daviedev/CSEW2023/CSE310-01/week01/PersonalPortfolio/MyApp/obj/Debug/net6.0/ref/MyApp.dll
