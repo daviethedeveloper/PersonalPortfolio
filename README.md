@@ -7,7 +7,7 @@ As a computer science major, it is likely that I will learn about different prog
 The purpose of creating this software is to familiarize myself with the process of creating a program using C# and to practice using various technologies, such as Git, GitHub, Visual Studio, and the .Net framework. These technologies are widely used in the software development industry and learning how to use them is an important part of my computer science degree. By creating this simple "Hello World" program, I am gaining valuable experience and skills that will help me in my future career as a software developer.
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/ee31d3896dc448fab73718a755574660)
 
 ## Development Environment
 
